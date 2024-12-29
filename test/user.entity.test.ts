@@ -1,4 +1,4 @@
-import { User, UserProps } from "../src/domain/entities/user";
+import { User, UserProps } from "../arquitetura-1/entities/user";
 
 describe("User Test", () => {
     test('constructor', () => {
